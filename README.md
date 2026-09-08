@@ -1,16 +1,15 @@
 README
-This project went well with the climbing mechanic as it climb amazing and normal however it would make
-better if i could had added like a stamina so it has like a time to climb just like The legend of Zelda breath of the wild
+This project went well with the climbing mechanic, as it climb amazing and normal however, it would be
+better if I could have added stamina so it has, like, a time to climb, just like The Legend of Zelda: Breath of the Wild
 
-what i been looking it didn't went well was the wall walk and wall jump mechanic as it seems the climb mechanic it intervening with 
-with both  mechanic it jump forward well but not like i expected 
+What I was looking at didn't go well was the wall walk and wall jump mechanic, as it seems the climb mechanic is interfering with 
+With both  mechanics, it jumped forward well, but not like I expected 
 
-A challenged i faced was the creative production and be able to make the wall jump and wall walk mechanic work 
-since those mechanic where from a past project that worked fine but now i needed to change the code bc at the begging it didn't work preperly
-and was looking how to be able to change and work properly
+A challenged i faced was the creative production and being able to make the wall jump and wall walk mechanics work. Since those mechanics were from a past project that worked fine, but now I needed to change the code bc at the beginning it didn't work properly
+And I was looking at how to be able to change it and make it work properly. I also forgot to mention the use of Raycast was hard; I needed to look on my own for a basic way 
 
-umm Something different i would make next time would be find a way some codes don't intervene with others so it work properly but also like i mentioned something 
-differently would be add a time or stamina for the character 
+Umm, something different I would do next time would be to find a way so some codes don't interfere with others so it works properly,y but also, like I mentioned, something 
+differently would be to  add a time or stamina for the character 
 
 Thanks for the Help 
 
