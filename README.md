@@ -11,3 +11,6 @@ and was looking how to be able to change and work properly
 
 umm Something different i would make next time would be find a way some codes don't intervene with others so it work properly but also like i mentioned something 
 differently would be add a time or stamina for the character 
+
+Thanks for the Help 
+
