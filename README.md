@@ -14,3 +14,7 @@ differently would be add a time or stamina for the character
 
 Thanks for the Help 
 
+https://docs.unity3d.com/ja/6000.0/ScriptReference/Collider.OnCollisionStay.html?utm_source=chatgpt.com
+https://docs.unity3d.com/ScriptReference/Physics.Raycast.html?utm_source=chatgpt.com
+https://discussions.unity.com/t/wall-jump-and-wall-slide-help/771040
+https://youtu.be/Zs2zgOMizfo?is=UL_GFRe6ZwARfAVf
